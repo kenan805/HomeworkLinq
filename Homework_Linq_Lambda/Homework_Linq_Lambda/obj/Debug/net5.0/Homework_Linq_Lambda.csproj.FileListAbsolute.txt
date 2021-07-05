@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\bin\Debug\net5.0\Homework_Linq_Lambda.exe
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\bin\Debug\net5.0\Homework_Linq_Lambda.deps.json
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\bin\Debug\net5.0\Homework_Linq_Lambda.runtimeconfig.json
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\bin\Debug\net5.0\Homework_Linq_Lambda.runtimeconfig.dev.json
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\bin\Debug\net5.0\Homework_Linq_Lambda.dll
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\bin\Debug\net5.0\ref\Homework_Linq_Lambda.dll
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\bin\Debug\net5.0\Homework_Linq_Lambda.pdb
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\obj\Debug\net5.0\Homework_Linq_Lambda.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\obj\Debug\net5.0\Homework_Linq_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\obj\Debug\net5.0\Homework_Linq_Lambda.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\obj\Debug\net5.0\Homework_Linq_Lambda.AssemblyInfo.cs
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\obj\Debug\net5.0\Homework_Linq_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\obj\Debug\net5.0\Homework_Linq_Lambda.dll
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\obj\Debug\net5.0\ref\Homework_Linq_Lambda.dll
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\obj\Debug\net5.0\Homework_Linq_Lambda.pdb
+C:\Users\user\source\repos\Homework_Linq_Lambda\Homework_Linq_Lambda\obj\Debug\net5.0\Homework_Linq_Lambda.genruntimeconfig.cache
