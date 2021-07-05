@@ -131,14 +131,12 @@ namespace Homework_Linq_Lambda
             //{
             //    for (var i = 0; i < d.Phone.Length; i++)
             //    {
-            //        if (!char.IsDigit(d.Phone[i]))
-            //            continue;
-            //        if (d.Phone.Count(n => n == d.Phone[i]) != 1)
+            //        if (d.Phone.Distinct().ToList().Count != d.Phone.Length - 1)
             //            return false;
             //    }
             //    return true;
             //});
-            //list.ForEach(d => Console.WriteLine(d.Debt));
+            //list.ForEach(d => Console.WriteLine(d.Phone));
 
             //?14)Tesevvur edek ki,butun borclari olanlar bugunden etibaren her ay 500 azn pul odeyecekler.Oz ad gunune kimi borcun oduyub qurtara bilenlerin siyahisin cixartmaq
 
@@ -154,12 +152,7 @@ namespace Homework_Linq_Lambda
 
             //    return true;
             //});
-
             //list.ForEach(d => Console.WriteLine(d.FullName));
-
-
-
-
         }
     }
 }
